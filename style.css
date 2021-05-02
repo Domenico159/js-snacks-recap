@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+    font-family: sans-serif;
+}
+
+
+main{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+main ul li{
+    list-style: none;
+    margin-top: 20px;
+    background-color: rgb(155, 224, 224);
+    padding: 10px;
+    cursor: pointer;
+}
+
+.red{
+    color: red;
+}
+
+h2{
+    margin-top: 30px;
+}
